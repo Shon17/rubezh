@@ -1,0 +1,11 @@
+body {
+    font-size: 20px;
+    color: rgb(1, 5, 110);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    } div.zagl {
+    color: #887700; float: right; text-align: center; }
+    .bam{float:center; text-align: center; width: 300px; height: 300px; font-size: xx-large; 
+    border: 3px;}
+    img{
+        border-radius: 50%; width: 300px; height: 300px;
+    }
